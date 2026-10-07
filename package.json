@@ -7,19 +7,19 @@
     "delete": "rm -rf app/n"
   },
   "dependencies": {
-    "@next/mdx": "^15.5.26",
+    "@next/mdx": "16.3.8",
     "@tailwindcss/postcss": "^4.1.8",
     "@types/mdx": "^2.0.13",
     "@vercel/analytics": "^1.5.0",
     "framer-motion": "^12.16.0",
-    "next": "^15.5.26",
+    "next": "16.3.8",
     "postgres": "^3.4.7",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "sugar-high": "^0.9.3"
   },
   "devDependencies": {
-    "@opennextjs/cloudflare": "^1.20.7",
+    "@opennextjs/cloudflare": "1.20.8",
     "@types/node": "^22.15.29",
     "@types/react": "^19.1.6",
     "@types/react-dom": "^19.1.6",
